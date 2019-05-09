@@ -8,12 +8,15 @@
     "react-scripts": "0.9.5"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.24.1",
+    "jest": "^18.1.0",
+    "babel-jest":"^18.1.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "enzyme-to-json": "^3.3.5",
     "jest-html-reporter": "^2.5.0",
-    "react-jsdom": "^3.0.0"
+    "react-jsdom": "^3.0.0",
+    "babel-preset-es2015":"^6.24.1",
+    "babel-preset-react":"^6.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
